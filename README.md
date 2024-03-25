@@ -23,7 +23,7 @@ identityserver.plugins.actions.*.jar
 
 ## Prerequisites
 
-Before using this plugin you must be running version 9.1 or later of the Curity Identity Server.
+Before using this plugin you must be running version 9.0 or later of the Curity Identity Server.
 
 
 ### Deploy the JAR File
